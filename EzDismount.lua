@@ -295,7 +295,7 @@ function EzDismount_getdown(mount)
    	local aqmount     = "_qirajicrystal_"
    	local aquaticform = "ability_druid_aquaticform";
 	local stealth = "stealth"
-	local gryphon = "_gryphon_";
+	local gryphon = "C_MountJournal.SummonByID(34896)";
 
 
    -- was this a dismount request or a shapeshift request?
